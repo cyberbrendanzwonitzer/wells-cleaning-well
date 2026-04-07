@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router';
-import logo from 'figma:asset/eda306d13a20374ce21bbc57a175729dd77dcb7a.png';
+import logo from '../../assets/eda306d13a20374ce21bbc57a175729dd77dcb7a.png';
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
